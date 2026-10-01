@@ -36,17 +36,13 @@ create a modern, responsive and professional web presence.
 
 ## Development
 
-npm install
-npm run dev
+-npm install
+-npm run dev
 
 ## Production Build
 
-npm run build
-npm run preview
-
-## Deployment
-
-...
+-npm run build
+-npm run preview
 
 ## Client
 
