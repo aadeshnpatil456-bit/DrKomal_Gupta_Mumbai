@@ -1,32 +1,58 @@
-<<<<<<< HEAD
-=======
-Website for Dr Komal Gupta
+# Dr. Komal Gupta – Professional Consultancy Website
 
->>>>>>> 9664143332ba498671adb4ad510018b0b4830582
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+A responsive professional website developed for Dr. Komal Gupta,
+designed to establish an online presence and provide visitors
+with information about services, expertise, and contact options.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Live Website
 
-# Step 3: Install the necessary dependencies.
-npm i
+[https://www.drkomalgupta.com/]
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## Project Overview
 
-## What technologies are used for this project?
+This project was developed as a consultancy/client project to
+create a modern, responsive and professional web presence.
 
-This project is built with:
+## Features
 
-- Vite
-- TypeScript
+- Responsive design
+- Professional landing page
+- Services section
+- About section
+- Contact section
+- Mobile-friendly navigation
+- SEO-friendly structure
+- Optimized assets
+- Responsive typography
+- Modern UI components
+
+## Tech Stack
+
 - React
-- shadcn-ui
-<<<<<<< HEAD
+- TypeScript
+- Vite
 - Tailwind CSS
-=======
-- Tailwind CSS
->>>>>>> 9664143332ba498671adb4ad510018b0b4830582
+- shadcn/ui
+
+## Development
+
+npm install
+npm run dev
+
+## Production Build
+
+npm run build
+npm run preview
+
+## Deployment
+
+...
+
+## Client
+
+Dr. Komal Gupta
+Mumbai, Maharashtra
+
+## Developer
+
+Aadesh Patil
